@@ -30,6 +30,11 @@
 - ![Screenshot From 2024-12-24 18-23-37](https://github.com/user-attachments/assets/af7b2810-bf78-4a1d-ae6b-ba216b0fcd1a)
 
 
+  ### Página clonada para captura de login e senha:
+- ![Captura de tela 2024-12-24 182507](https://github.com/user-attachments/assets/ac1a20e5-8290-47a1-8159-6b3e85d7911f)
+
+
+
   ### Resutados
 
 ![Resultado desafio](https://github.com/user-attachments/assets/d3162e93-1fa8-4eef-81de-f7c8aeec426b)
